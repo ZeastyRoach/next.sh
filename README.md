@@ -1,7 +1,10 @@
-# next.sh; Bash script for the natas wargame. Made to save time on commands, get more done. 
+# next.sh
+
+Bash script for the natas wargame. (https://overthewire.org/wargames/natas/) Made to save time on commands, get more done. 
 
 Script works by reading file: natas.md
 If you do not have this file make one.
+
 Essential layout of passwords:
 (anything before is optional) natas(number of level) is (password)
 
